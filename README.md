@@ -4,7 +4,7 @@ IEベースの新しいブラウザ
 誰も体験したことのない使いにくいブラウザ
 
 # ダウンロード
-https://github.com/NOBU-dev/I-browser/releases/latest/i-browser.zip
+https://github.com/NOBU-dev/I-browser/releases/latest/I-browser.zip
 
 # アップデート履歴
 Ver 2.0.0
