@@ -3,7 +3,7 @@
 IEベースの新しいブラウザ
 誰も体験したことのない使いにくいブラウザ
 
-#ダウンロード
+# ダウンロード
 https://github.com/NOBU-dev/I-browser/releases/latest
 
 # アップデート履歴
