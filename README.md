@@ -7,8 +7,8 @@ IEベースの新しいブラウザ
 https://github.com/NOBU-dev/I-browser/releases/latest/download/I-browser.zip
 
 # アップデート履歴
-Ver 2.0.0
+## Ver 2.0.0
  + 検索エンジンを切り替えるためのタブ
-Ver 2.0.1
+## Ver 2.0.1
  +アプリ起動時の自動更新
  +サイトURLの変更
