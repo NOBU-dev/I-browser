@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="ja">
+<body>
+    <div>
+        <form name="login_form">
+            <center>
+                <h1 class="contact-title">ログイン</h1>
+                <p>URLをご入力の上, 「リダイレクト」ボタンをクリックしてください.</p>
+            </center>
+            <div>
+
+                <center>
+                    <div>
+                        <input type="id" name="id" placeholder="ID">
+                    </div>
+                </center>
+            </div>
+            <button type="button" onClick="nextPage();">リダイレクト!</button>
+        </form>
+        <script language="JavaScript" type="text/javascript">
+            function nextPage() {
+                id = document.login_form.id.value
+                location.href = id;
+            }
+        </script>
+
+    </div>
+</body>
+</html>
