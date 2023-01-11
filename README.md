@@ -3,7 +3,7 @@
 IEベースの"使いにくい"ブラウザ
 
 # ダウンロード
-[zipをダウンロード](https://github.com/NOBU-dev/I-browser/releases/latest/download/I-browser.zip)
+[I-browser.zipをダウンロード](https://github.com/NOBU-dev/I-browser/releases/latest/download/I-browser.zip)
 
 # アップデート履歴
 ## Ver 2.0.0
