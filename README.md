@@ -1,7 +1,6 @@
 # I-browser
 
-IEベースの新しいブラウザ
-誰も体験したことのない使いにくいブラウザ
+IEベースの"使いにくい"ブラウザ
 
 # ダウンロード
 [zipをダウンロード](https://github.com/NOBU-dev/I-browser/releases/latest/download/I-browser.zip)
